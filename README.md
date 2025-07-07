@@ -1,11 +1,11 @@
 # 👨‍💻 Guilherme de Deus
 
-**`DBA | Python`**
+**`DBA | Python`**  
 
-👋 Olá! Me chamo Guilherme de Deus, tenho 20 anos e sou natural de Brasília.
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB e estou me aperfeiçoando em Python pelo SENAI.
-🗃️ Sou formado em Administração de Banco de Dados pela mesma instituição. busco constantemente evoluir na área de tecnologia, com foco em desenvolvimento e dados.
-🚀 Apaixonado por aprender, busco constantemente evoluir na área de tecnologia. 
+👋 Olá! Me chamo Guilherme de Deus, tenho 20 anos e sou natural de Brasília.<br/>
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB e estou me aperfeiçoando em Python pelo SENAI.<br/>
+🗃️ Sou formado em Administração de Banco de Dados pela mesma instituição.<br/>
+🚀 Apaixonado por aprender, gosto de explorar novas tecnologias e contribuir com projetos desafiadores.
 
 ---
 
