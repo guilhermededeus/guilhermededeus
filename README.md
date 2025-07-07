@@ -1,8 +1,11 @@
 # 👨‍💻 Guilherme de Deus
 
-**`Desenvolvedor FullStack`**
+**`DBA | Python`**
 
-Me chamo Guilherme de Deus, tenho 20 anos e sou natural de Brasília. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNICEUB, Administrador de Banco de Dados e Desenvolvimento Full Stack no SENAI.
+👋 Olá! Me chamo Guilherme de Deus, tenho 20 anos e sou natural de Brasília.
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB e estou me aperfeiçoando em Python pelo SENAI.
+🗃️ Sou formado em Administração de Banco de Dados pela mesma instituição. busco constantemente evoluir na área de tecnologia, com foco em desenvolvimento e dados.
+🚀 Apaixonado por aprender, busco constantemente evoluir na área de tecnologia. 
 
 ---
 
@@ -24,15 +27,6 @@ Me chamo Guilherme de Deus, tenho 20 anos e sou natural de Brasília. Atualmente
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="JavaScript"
-    tittle="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
 />
 
 <img 
