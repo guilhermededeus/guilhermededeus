@@ -3,8 +3,7 @@
 **`DBA | Python`**  
 
 👋 Olá! Me chamo Guilherme de Deus, tenho 20 anos e sou natural de Brasília.<br/>
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB e estou me aperfeiçoando em Python pelo SENAI.<br/>
-🗃️ Sou formado em Administração de Banco de Dados pela mesma instituição.<br/>
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB.<br/>
 🚀 Apaixonado por aprender, gosto de explorar novas tecnologias e contribuir com projetos desafiadores.
 
 ---
@@ -36,6 +35,15 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="C#"
+    tittle="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 
 <img 
