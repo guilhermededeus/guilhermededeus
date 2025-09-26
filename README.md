@@ -1,7 +1,5 @@
 # 👨‍💻 Guilherme de Deus
 
-**`DBA | Python`**  
-
 👋 Olá! Me chamo Guilherme de Deus, tenho 20 anos e sou natural de Brasília.<br/>
 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB.<br/>
 🚀 Apaixonado por aprender, gosto de explorar novas tecnologias e contribuir com projetos desafiadores.
@@ -61,15 +59,6 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="GitHub"
-    tittle="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
 <br/>
