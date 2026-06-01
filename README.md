@@ -61,9 +61,11 @@
 <br/>
 <br/>
 
-## 📈 Estatísticas
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=guilhermededeus&show_icons=true&theme=tokyonight&hide_border=true"
+### 📈 Estatísticas
+<img 
+ align="left"
+ alt="GitHub Stats" 
+ height="200"
+ style="padding-right: 10px;" 
+ src="https://github-readme-stats-one-bice.vercel.app/api?username=guilhermededeus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
